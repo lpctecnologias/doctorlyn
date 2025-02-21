@@ -14,11 +14,11 @@ people:
   position: Veterinária Responsável
   social:
     - title: facebook
-      url: https://facebook.com/tammylynvet
+      url: https://facebook.com/doctorlynvet
     - title: instagram
-      url: https://instagram.com/tammylynvet
-    #- title: 
-    #  url: #
+      url: https://instagram.com/doctorlyn
+    - title: whatsapp
+      url: https://wa.me/5541999901124
 
 #- name: Larry Parker    color: #{{ site.data.template.color.primary }};
 
@@ -48,18 +48,16 @@ social:
   - title: instagram
     url: https://instagram/doctorlyn
   - title: facebook
-    url: https://facebook.com/doctorlyncwb
+    url: https://facebook.com/doctorlynvet
   - title: github
-    url: http://github.com/doctorlyncwb
-  - title:  
-    url: 
-  - title: 
-    url: 
+    url: http://github.com
+  - title: whatsapp
+    url: https://wa.me/5541999901124
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Rua da Divina Providencia, 69
-  - line: Curitiba, Paraná
+  - line: Rua Limeira, 619 - Eucaliptos
+  - line: Fazenda Rio Grande, Paraná
 
 # Build settings
 markdown: kramdown
